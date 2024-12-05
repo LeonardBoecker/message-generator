@@ -14,4 +14,4 @@ This program generates randomized messages. Each time you run it, you'll get a u
 
 4.  **Code Comments:** The code is thoroughly commented to explain the logic and my thought process.
 
-5.  **Git and GitHub:** I'm using Git for version control and have pushed this project to GitHub to demonstrate my progress and improve my Git skills. You can find the repository code in [here](https://github.com/LeonardBoecker/message-generator).
+5.  **Git and GitHub:** I'm using Git for version control and have pushed this project to GitHub to demonstrate my progress and improve my Git skills. You can find the repository code in [here](https://github.com/LeonardBoecker/message-generator/blob/main/main.js).
